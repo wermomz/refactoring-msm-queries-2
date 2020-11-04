@@ -1,4 +1,4 @@
-image: jelaniwoods/appdev2020-msm-queries
+image: patrickmckernin/refactoringmsmqueries2
 
 tasks:
   - init: bin/setup
